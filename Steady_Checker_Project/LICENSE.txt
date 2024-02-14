@@ -1,0 +1,27 @@
+
+🚀🕵️‍♂️ Steady Checker License - Version 1.0 🚀🕵️‍♂️
+
+This tool is for all the crypto degen out there who want to audit their wallets like a pro, without giving away their secret moves. Use it, modify it, but remember, with great crypto power comes great crypto responsibility! 💪🔒
+
+You can:
+
+- Use this tool for your crypto adventures.
+- Modify the code to suit your needs.
+- Share the tool with your fellow degen (they'll thank you for it!).
+
+You can't:
+
+- Use this tool for evil (no rug pulls, please).
+- Hold us liable if something goes wrong (crypto is risky, you know the drill).
+
+Remember, the crypto world is wild and untamed. Use this tool wisely and may the gains be ever in your favor! 🌕
+
+MIT License:
+
+Permission is hereby granted, free of charge, to any crypto degen obtaining a copy of this software and associated documentation files, to deal in the tool without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the tool, and to permit persons to whom the tool is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the tool.
+
+THE TOOL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE TOOL OR THE USE OR OTHER DEALINGS IN THE TOOL.
+
+Happy auditing, you crypto renegade! 🔒
