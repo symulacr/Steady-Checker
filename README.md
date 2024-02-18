@@ -45,7 +45,7 @@ Steady Checker is a badass tool that lets you spy on your EVM wallet and check i
 
 ## Contribute 🙌
 
-- Found a bug or want to add a cool new feature? Fork the repo, make your changes, and send us a pull request. Let's make Steady Checker even more awesome together!
+- Found a bug or want to add a cool new feature? Fork the repo, make your changes, and send us a pull request. Let's make Steady Checker even more awesome together !
 
 ## License 📜
 
