@@ -1,0 +1,19 @@
+██╗░░░██╗███████╗██████╗░███████╗
+╚██╗░██╔╝██╔════╝██╔══██╗██╔════╝
+░╚████╔╝░█████╗░░██████╔╝█████╗░░
+░░╚██╔╝░░██╔══╝░░██╔══██╗██╔══╝░░
+░░░██║░░░███████╗██║░░██║███████╗
+░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚══════╝
+
+Steady Checker Zero-Knowledge Parameters 🛡️🔍
+
+- Constraint Systems: groth16
+- Proving Key Size: 192 bytes
+- Verifying Key Size: 48 bytes
+- Circuit Size: 10^6 gates
+- Security Level: 128 bits
+- Proof Size: 192 bytes
+- Hash Function: SHA256
+- Curve: BN256
+
+Keep these parameters safe and secure, like your crypto wallet keys! They're the secret sauce that makes Steady Checker's zero-knowledge proofs work! 🔒🔍
